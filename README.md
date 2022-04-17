@@ -9,6 +9,11 @@ I am a  Electrical and Computer Engineering student with a passion for automatio
 **What've I been up to this week?** 
 <!--START_SECTION:waka-->
 
+```text
+From: 09 April 2022 - To: 16 April 2022
+
+Python   0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.00 %
+```
 
 <!--END_SECTION:waka-->
 <!--
