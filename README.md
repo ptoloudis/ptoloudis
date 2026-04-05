@@ -1,32 +1,34 @@
-### Hey!! I'm Panagiotis 👋
+# Hey, I'm Panagiotis 👋
+
+**`ECE Master's Graduate · MLOps & Cloud Infrastructure · Systems Developer`**
+
+I'm an Electrical & Computer Engineering graduate from the University of Thessaly, Greece, specializing in distributed systems, MLOps, and cloud-native infrastructure. I enjoy working close to the metal — from Linux kernel internals to building and deploying scalable ML pipelines.
+
+Currently serving as IT Specialist / System Administrator at the **Greek Army's Research & IT Office**, and actively exploring opportunities in ML Engineering and MLOps.
+
+---
+
+## 🔗 Find me around the web
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-ptoloudis.github.io-00e5ff?style=flat-square&logo=github&logoColor=black)](https://ptoloudis.github.io)
+
+---
 
 
-### Happy to meet you!
+## 📊 This week's coding activity
 
-I am a  Electrical and Computer Engineering student with a passion for automation and backend development, and finding ways to improve the world with my talents and passions! 
-
-
-**What've I been up to this week?** 
 <!--START_SECTION:waka-->
-
-```txt
-From: 28 March 2026 - To: 04 April 2026
-
-TeX   4 mins                ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 %
-```
-
 <!--END_SECTION:waka-->
-<!--
-**ptoloudis/ptoloudis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ptoloudis&show_icons=true&theme=dark&hide_border=true&bg_color=0a0c0f&title_color=00e5ff&icon_color=00e5ff&text_color=e8eaed" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ptoloudis&layout=compact&theme=dark&hide_border=true&bg_color=0a0c0f&title_color=00e5ff&text_color=e8eaed" height="160" />
+</p>
+
+---
+
+*📍 Amyntaio, Greece · Open to ML Engineering, MLOps & Cloud Infrastructure roles*
