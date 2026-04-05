@@ -22,13 +22,5 @@ Currently serving as IT Specialist / System Administrator at the **Greek Army's 
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ptoloudis&show_icons=true&theme=dark&hide_border=true&bg_color=0a0c0f&title_color=00e5ff&icon_color=00e5ff&text_color=e8eaed" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ptoloudis&layout=compact&theme=dark&hide_border=true&bg_color=0a0c0f&title_color=00e5ff&text_color=e8eaed" height="160" />
-</p>
-
----
 
 *📍 Amyntaio, Greece · Open to ML Engineering, MLOps & Cloud Infrastructure roles*
