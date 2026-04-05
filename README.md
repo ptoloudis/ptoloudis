@@ -18,6 +18,13 @@ Currently serving as IT Specialist / System Administrator at the **Greek Army's 
 ## 📊 This week's coding activity
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 28 March 2026 - To: 04 April 2026
+
+TeX   4 mins                ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 %
+```
+
 <!--END_SECTION:waka-->
 
 ---
