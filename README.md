@@ -20,11 +20,10 @@ Currently serving as IT Specialist / System Administrator at the **Greek Army's 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 September 2026 - To: 01 October 2026
+From: 25 September 2026 - To: 02 October 2026
 
-Python     21 mins               ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀   60.34 %
-Other      10 mins               ⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   29.85 %
-Markdown   3 mins                ⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.81 %
+Other      4 mins                ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   54.77 %
+Markdown   3 mins                ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   45.23 %
 ```
 
 <!--END_SECTION:waka-->
